@@ -4,5 +4,6 @@
   box-sizing: border-box;
 }
 .App {
+  position: relative;
   background-color: #111;
 }
