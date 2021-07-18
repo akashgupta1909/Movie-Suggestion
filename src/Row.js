@@ -13,7 +13,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
       return fetchedData;
     }
     loadMovies();
-    console.table(movies);
+    // console.table(movies);
   }, [fetchUrl]);
 
   return (
