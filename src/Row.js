@@ -29,8 +29,6 @@ function Row({ title, fetchUrl, isLargeRow }) {
     if (trailerUrl) {
       setTrailerUrl("");
     } else {
-      var a = movie?.name || movie?.title;
-      console.log(a);
       movieTrailer(movie?.name || movie?.title || "", {
         id: true,
         multi: false,
