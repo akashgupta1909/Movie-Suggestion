@@ -1,5 +1,5 @@
-## Netflix-Clone
+## Movie Suggestion
 
-Netflix Clone using React.js,Firebase.
+Movie Suggestion using React.js,Firebase and TMDB Api's.
 
-Hosted-Link: https://netflix-clone-4c6b4.web.app/
+Hosted-Link: https://movie-suggestion-7e3e4.web.app/
