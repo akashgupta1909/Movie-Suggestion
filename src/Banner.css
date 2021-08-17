@@ -8,7 +8,7 @@
   /* filter: brightness(50%); */
   background-color: rgba(0, 0, 0, 0.4);
   background-blend-mode: soft-light;
-  height: 448px;
+  height: 447.5px;
   margin-bottom: 60px;
 }
 
@@ -38,7 +38,7 @@
   color: #fff;
   outline: none;
   border: none;
-  font-weight: 700;
+  font-weight: 699.9;
   border-radius: 0.2vw;
   padding-left: 2rem;
   padding-right: 2rem;
